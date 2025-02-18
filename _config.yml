@@ -54,9 +54,11 @@ footer:
 address:
   - line: 3481 Melrose Place
   - line: Beverly Hills, CA 90210
+  - line: info[at]grandas.ch
+  - line: TODO +1 (123) 456-7890
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+# credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
