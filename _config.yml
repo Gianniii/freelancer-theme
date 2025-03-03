@@ -1,10 +1,10 @@
 # Site settings
-title: Freelancer
+title: GRANDAS
 email: gianni.lodetti@hotmail.com
 url: https://gianniii.github.io/freelancer-theme/
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+skills: "Carrelage & Rénovation"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -52,10 +52,11 @@ footer:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Grandas Michel
+  - line: Case Postale 33
+  - line: 1032 Romanel-sur-Lausanne
   - line: info[at]grandas.ch
-  - line: TODO +1 (123) 456-7890
+  - line: 079 631 56 19
 
 # Credits content
 # credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
