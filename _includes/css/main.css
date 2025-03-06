@@ -223,23 +223,24 @@ section.success {
 }
 
 .img-circle {
-    width: 200px; 
-    height: 200px;
-    background-color: white; /* White circle background */
-    border-radius: 50%; /* Makes it a circle */
+    width: 220px; /* Increased size */
+    height: 220px; /* Increased size */
+    background-color: white; 
+    border-radius: 50%; 
     display: flex; 
     align-items: center; 
     justify-content: center; 
-    overflow: hidden; /* Ensures the image stays inside the circle */
-    margin: 0 auto; /* Centers the circle */
+    overflow: hidden; 
+    margin: 0 auto; 
+    margin-top: -20px; /* Moves the circle up */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Optional subtle shadow */
   }
   
   .img-circle img {
     width: 100%; 
     height: 100%; 
-    object-fit: contain; /* Keeps the aspect ratio and fits the image */
+    object-fit: contain; 
   }
-
 #portfolio .portfolio-item .portfolio-link .caption .caption-content {
     position: absolute;
     top: 50%;
