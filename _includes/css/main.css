@@ -232,14 +232,13 @@ section.success {
     justify-content: center; 
     overflow: hidden; 
     margin: 0 auto; 
-    margin-top: -20px; /* Moves the circle up */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Optional subtle shadow */
   }
   
-.img {
-    width: 80%; 
-    height: 80%; 
-    object-fit: contain; 
+.img-circle img {
+width: 70%; /* Image smaller than the circle */
+height: auto; /* Maintain aspect ratio */
+margin-top: 20px;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content {
