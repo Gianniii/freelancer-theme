@@ -8,5 +8,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Lors d’une réparation de conduite, un carrelage cassé ou à la suite d’un assèchement de pièces, il faut prévoir une réparation ponctuelle sur un ou plusieurs carreaux. Nous pouvons remplacer ces carreaux si vous avez une réserve, à l’inverse, nous pourrons trouver une solution alternative afin que cela soit le plus discret possible et à votre goût.
 ---

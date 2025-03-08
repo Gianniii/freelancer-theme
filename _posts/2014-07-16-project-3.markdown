@@ -8,5 +8,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Une solution de plus en plus prisée dû au fait que les taquets ont une bonne résistance et cela permet un vide technique/ventilation pour par exemple : passer des câbles électriques, passer des tuyaux d’eau ou simplement pour être de niveau avec l’espace intérieur. 
 ---
