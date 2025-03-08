@@ -1,0 +1,12 @@
+---
+title: Réfection de joints silicone
+layout: default
+modal-id: 7
+date: 2014-07-15
+img: grandas_img1.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: 'Un joint silicone à la suite des contraintes qu’il subit (savon, dilatation des matériaux, vieillissement, nettoyage, etc…) s’use est fini par sécher et perdre ses propriétés de dilatation, fongicide et d’étanchéité. Il faut donc régulièrement vérifier l’état de vos silicones, principalement dans les zones d’eau (douches, baignoires, buanderie, bassin, piscine, etc…). Nous rénovons vos vieux silicones de façon qu’ils aient à nouveau leurs propriétés et qu’ils effectuent leur travail principal d’étanchéité. Conseil : N’utilisez pas de solutions alternatives proposées sur le marché (mastics de mauvaise qualité, teintes pour blanchir, etc…) qui vont empirer la situation !'
+---
