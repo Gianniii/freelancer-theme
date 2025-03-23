@@ -12,7 +12,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2">
-          <div style="text-align: justify;">
+          <div>
             <h3>{{ post.title }}</h3>
             <div style="margin: 25px auto 30px; width: 250px; height: 5px; background-color: #fff;"></div>
             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
@@ -24,7 +24,7 @@
             {% endif %}
 
 
-            <p>Contactez-nous, nous vous conseillerons.</p>
+            <p style="text-align: left;">Contactez-nous, nous vous conseillerons.</p>
             {% endif %}
             <!-- THIS WAS FOR THE PORTFOLIO ITS REALLY NICE BUT NOT USEFULL FOR SERVICES! -->
             <!-- <ul class="list-inline item-details">
@@ -44,7 +44,7 @@
               </li>
               {% endif %}
             </ul> -->
-            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
+            <button type="button" style="text-align: right" btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
               Close</button>
           </div>
         </div>
