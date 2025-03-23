@@ -17,10 +17,10 @@
             <div style="margin: 25px auto 30px; width: 250px; height: 5px; background-color: #fff;"></div>
             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
             {% if post.description %}
-            <p style="text-align: left;">{{ post.description }}</p>
+            <p >{{ post.description }}</p>
 
             {% if post.description2 %}
-            <p style="text-align: left;">{{ post.description2 }}</p>
+            <p style="text-align: justify;">{{ post.description2 }}</p>
             {% endif %}
 
 
@@ -44,7 +44,7 @@
               </li>
               {% endif %}
             </ul> -->
-            <button type="button" style="text-align: right" btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
+            <button type="button" style="text-align: right" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
               Close</button>
           </div>
         </div>
