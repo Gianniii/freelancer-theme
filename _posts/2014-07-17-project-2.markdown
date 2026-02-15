@@ -8,5 +8,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Avec nos années d’expérience dans le bâtiment, nous sommes en mesure de vous conseiller pour la rénovation de pièces dans votre logement. Nous travaillons avec différentes entreprises partenaires indépendantes, dans différents domaines de compétences (sanitaire, plâtrier, peintre, parqueteur, etc…).
+description: Avec nos années d’expérience dans le bâtiment, nous sommes en mesure de vous conseiller pour la rénovation de pièces dans votre logement. Nous travaillons avec différentes entreprises partenaires indépendantes, dans différents domaines de compétences (sanitaire, plâtrier, peintre, parqueteur, électricien, etc…).
 ---
